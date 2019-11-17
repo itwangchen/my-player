@@ -6,9 +6,11 @@
   "author": "iceStone <ice@micua.com> (http://blog.wedn.net/)",
   "license": "ISC",
   "scripts": {
-    "test": "electron ."
+    "test": "electron .",
+    "pack": "electron-packager . yyhealth --win --out ../yyhealth --arch=x64 --app-version=0.0.1 --electron-version=2.0.0"
   },
   "dependencies": {
-    "electron-prebuilt": "^1.4.13"
+    "electron-prebuilt": "^1.4.13",
+    "electron": "^7.1.1"
   }
 }
