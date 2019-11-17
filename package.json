@@ -1,0 +1,14 @@
+{
+  "name": "yyhealth",
+  "version": "0.1.0",
+  "description": "A music player client by iceStone <ice@micua.com> (http://blog.wedn.net/)",
+  "main": "index.js",
+  "author": "iceStone <ice@micua.com> (http://blog.wedn.net/)",
+  "license": "ISC",
+  "scripts": {
+    "test": "electron ."
+  },
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
