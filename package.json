@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "electron-prebuilt": "^1.4.13",
-    "electron": "^7.1.1"
+    "electron": "^9.4.0"
   }
 }
